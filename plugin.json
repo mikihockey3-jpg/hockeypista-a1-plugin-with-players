@@ -1,0 +1,11 @@
+{
+  "id": "hockeypista-a1",
+  "version": "1.0.0",
+  "description": "Plugin scheletro per Hockey su pista A1 con database giocatori vuoto",
+  "files": [
+    "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin-with-players/main/index.ts",
+    "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin-with-players/main/types.d.ts",
+    "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin-with-players/main/data/players.ts"
+  ],
+  "input": []
+}
